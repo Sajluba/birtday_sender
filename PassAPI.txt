@@ -1,0 +1,4 @@
+auth_string : my_auth_string
+apikey_string : my_apikey_string
+mail_user : my_mail_user
+mail_password : my_mail_password
