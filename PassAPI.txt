@@ -1,4 +1,4 @@
-auth_string : my_auth_string
-apikey_string : my_apikey_string
-mail_user : my_mail_user
-mail_password : my_mail_password
+auth_string : Bearer CAE3DC9202FFACBD0237A639D3B5E58A
+apikey_string : MyHU3mtRYGqwUSbRZ34F6ZzlfCTgA9dK
+mail_user : birthday_sender
+mail_password : *m781CG:^B}QxxH6ToA'73cev3|joA5hAz(*8?DW#6
